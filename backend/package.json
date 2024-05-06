@@ -1,0 +1,15 @@
+{
+    "name": "backend-notas",
+    "version": "1.0.0",
+    "description": "Backend de la aplicación de notas",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "sequelize": "^6.37.3",
+      "sqlite3": "^5.1.7"
+    }
+  }
+  
